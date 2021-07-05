@@ -5,8 +5,8 @@ import requests
 from datetime import datetime
 
 
-account_sid = 'ACc9a93827120de9e22ecaccd21610c94d' 
-auth_token = '3445b5630e53962bf03f5baa80d58946' 
+account_sid = '' 
+auth_token = '' 
 client = Client(account_sid, auth_token) 
 
 def scrape():
